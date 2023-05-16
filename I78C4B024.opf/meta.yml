@@ -1,0 +1,18 @@
+id: I78C4B024
+default_language: fr
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:43.350116
+last_modified: 2023-01-04 11:32:43.350133
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  90B1:
+    title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+    base_file: 90B1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
